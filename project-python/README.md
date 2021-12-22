@@ -14,7 +14,7 @@
 <!-- Procedur to Run the Program -->
 ## 👇 How to Run Interactive Calculator Program
 
-- **Steps in Github Page**
+- **Steps in GitHub Page**
     - First, open the repository named project.python 
     - Second, copy the code from the file with the name countable.py
 - **Steps in Code Editor**
