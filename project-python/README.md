@@ -2,8 +2,8 @@
 # **Interactive Calculator**
 
 <!-- Img Thumbnail -->
-<p align="center">
-    <img style="border-radius:5%;" class="img-thumbnail" src="calculator.gif"/>
+<p align="left">
+    <img class="img-thumbnail" src="calculator.gif"/>
 </p>
 
 <!-- Description of Img Thumbnail -->
@@ -16,11 +16,11 @@
 
 - **Steps in Github Page**
     - First, open the repository named project.python 
-    - Second, copy the code from the repository with the name countable.py
+    - Second, copy the code from the file with the name countable.py
 - **Steps in Code Editor**
     - First, open your favorite code editor
     - Second, create a new file with the same name which is countable.py
-    - Third, paste the code from the repository with the name countable.py
+    - Third, paste the code from the file with the name countable.py
     - Fourth, run the project by pressing the play button at the top right of the code editor (Visual Studio Code)
 <!-- Thank You Card and Social Media -->
 ### 🙏 **Thank you for viewing my project**
