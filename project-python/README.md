@@ -15,13 +15,13 @@
 ## 👇 How to Run Interactive Calculator Program
 
 - **Steps in GitHub Page**
-    - First, open the repository named project.python 
-    - Second, copy the code from the file with the name countable.py
+    - First, open the repository named [project.python](https://github.com/zanevakalonika/myPython/tree/main/project-python) 
+    - Second, copy the code from the file with the name [countable.py](https://github.com/zanevakalonika/myPython/blob/main/project-python/countable.py)
 - **Steps in Code Editor**
     - First, open your favorite code editor
-    - Second, create a new file with the same name which is countable.py
-    - Third, paste the code from the file with the name countable.py
-    - Fourth, run the project by pressing the play button at the top right of the code editor (Visual Studio Code)
+    - Second, create a new file with the same name which is *countable.py*
+    - Third, paste the code from the file with the name [countable.py](https://github.com/zanevakalonika/myPython/blob/main/project-python/countable.py)
+    - Fourth, run the project by pressing the play button at the top right of the code editor [(Visual Studio Code)](https://code.visualstudio.com/download)
 <!-- Thank You Card and Social Media -->
 ### 🙏 **Thank you for viewing my project**
 [![facebook](https://img.shields.io/badge/Facebook-5279E0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zaneva.handoko/)
