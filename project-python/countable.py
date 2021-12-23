@@ -46,6 +46,7 @@ if int(input_budget) < int(total_price):
                 print('Anda tidak jadi membeli ' + str(input_jumlah) + ' ' + str(input_things) + ' seharga ' + str(total_price))
                 print('Uang Anda tetap berjumlah ' + str(total_budget))
         if int(input_answer) < int(jumlah_kekurangan):
+            total_budget = int(input_answer) + int(input_budget)
             print('Anda tidak dapat membeli ' + str(input_jumlah) + ' ' + str(input_things) + ' seharga ' + str(total_price))
             print('Uang Anda tetap berjumlah ' + str(total_budget))
     if input_questyesno == 'no' or input_questyesno == 'tidak':
