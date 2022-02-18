@@ -2,7 +2,7 @@
 kelipatan = [] # - > for remove the last item
 kelpt_inf = float(input('kelipatan from? :'))
 kelpt_inu = float(input('kelipatan until? :'))
-def kelpt_system(bhn):
+def kelpt_system(bhn): # - > still not have gunanya
     while bhn < kelpt_inu:
         bhn += kelpt_inf
         kelipatan.append(bhn)
